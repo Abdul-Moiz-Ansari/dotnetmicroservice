@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CommandsService",
+    "\\CommandsService\\bin",
+    "\\CommandsService\\bin\\Debug",
+    "\\CommandsService\\bin\\Debug\\net7.0",
+    "\\PlatformService",
+    "\\PlatformService\\Controllers",
+    "\\PlatformService\\Models"
+  ],
+  "SelectedNode": "\\CommandsService",
+  "PreviewInSolutionExplorer": false
+}
